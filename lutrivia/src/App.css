@@ -1,0 +1,14 @@
+.wrong {
+  background-color: red;
+}
+
+.correct {
+  background-color: lightgreen;
+}
+
+.question {
+  background-color: lightgrey;
+  border: 2px solid darkgrey;
+  margin: 20px;
+  width: 400px;
+}
